@@ -1,8 +1,6 @@
 # Sales and Customer Growth Easy Technologies Internship January 2026
 Interactive Excel Sales Dashboard analyzing Sales, Customer, and Product data
 
-# Sales Performance Dashboard (Excel)
-
 ## Project Overview
 This project is an **interactive Sales Dashboard** built in **Microsoft Excel** to analyze sales, customer, and product data for 2023–2024. The dashboard provides **actionable insights** to support data-driven decision-making, helping management understand business performance, customer behavior, product trends, and regional opportunities.  
 
@@ -101,15 +99,14 @@ Features include:
 ---
 
 ## Project Files
-- `dashboard/sales_dashboard.xlsx` – Interactive Excel dashboard with pivot tables and charts  
-- `data/sales_data.xlsx` – Cleaned dataset  
-- `presentation/sales_dashboard_presentation.pptx` – PowerPoint summary of insights and recommendations  
+- `Sales Analysis 1.xlsx` – Interactive Excel dashboard with cleaned dataset, pivot tables and charts   
+- `Sales Analysis Reports.pptx` – PowerPoint summary of insights and recommendations  
 - `images/` Screenshots of the dashboard  
 
 ---
 
 ## How to Use
-1. Open `sales_dashboard.xlsx` in **Microsoft Excel**.  
+1. Open `Sales Analysis.xlsx` in **Microsoft Excel**.  
 2. Use **slicers** to filter data by year, region, product, age, or gender.  
 3. Review **KPI cards** for a summary of overall performance.  
 4. Refer to the PowerPoint presentation for **key insights and actionable recommendations**.  
