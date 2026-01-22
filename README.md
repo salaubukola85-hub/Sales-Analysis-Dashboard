@@ -58,7 +58,9 @@ Features include:
 - Average Order Value (AOV): 2,907  
 - Total Quantity Sold: 28,651  
 - Total Customers: 300  
-- Average Customer Age: 41.9 years  
+- Average Customer Age: 41.9 years
+- YoY growth shows sales increased by 14.6%, orders by 12.3%, and quantity by 10.4%, indicating strong business momentum
+
 
 **Monthly Sales Trends:**  
 - Peak months: January (₦1.44M), November (₦1.35M), May (₦1.28M)  
